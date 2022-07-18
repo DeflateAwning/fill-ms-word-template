@@ -13,19 +13,5 @@ openpyxl
 
 comtypes
 
-# PDF Scraping
-pymupdf
-# import fitz
 
-tabula
-
-# progress for pandas
 tqdm
-matplotlib
-
-dateparser
-# from dateparser.search import search_dates
-# search_dates(str)[0][1]
-
-
-pikepdf
